@@ -1,0 +1,29 @@
+table {
+    background-color: rgba(231, 241, 83, 0.466);
+    font-size: 20px;
+    width: 40%;
+    color: orange;
+    text-align: center;
+    background-image: none;
+}
+
+table, th, td {
+    border: 1px solid rgba(233, 245, 67, 0.952);
+    background-image: url(../img/patitas.png);
+    background-size: 200px;
+    background-repeat: repeat;
+}
+
+th {
+    background-color: green;
+    background-image: none;
+}
+
+.celdaNaranja{
+    background-color: pink;
+    background-image: none;
+}
+.celdaAmarillo{
+    background-color: rgba(233, 245, 67, 0.952);
+    background-image: none;
+}

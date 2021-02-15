@@ -1,0 +1,11 @@
+.tipo1 {
+    list-style-type: decimal;
+}
+
+.tipo2 {
+    list-style-type: lower-latin;
+}
+
+.tipo3 {
+    list-style-type: upper-roman;
+}

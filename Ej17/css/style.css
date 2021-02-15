@@ -1,0 +1,78 @@
+body {
+    background-image: url(../img/ac.jpg);
+    background-repeat: repeat;
+}
+
+table, th, td {
+    border: 1px solid rgba(0, 0, 0, 0.952);
+    text-align: center;
+    height: 190px;
+    width: 810px;
+}
+
+.celdaA {
+    background-image: url(../img/back_mantel.jpg);
+    background-repeat: repeat;
+}
+
+.celdaB {
+    background-image: url(../img/back_mantel.jpg);
+    background-repeat: repeat;
+    background-size: 20%;
+}
+
+.celdaC {
+    background-image: url(../img/back_mantel.jpg);
+    background-size: 100%;
+}
+
+.celdaD {
+    background-image: url(../img/back_mantel.jpg);
+    border: 5px gray solid;
+    background-size: 100%;
+}
+
+.celdaE {
+    background-image: url(../img/dh.jpg);
+    background-size: 100%;
+}
+
+.celdaF {
+    background-image: url(../img/dh.jpg);
+    background-size: 70%;
+    background-color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.celdaG {
+    background-image: url(../img/dh_2.jpg);
+    background-size: 100%;
+    background-color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.celdaH {
+    background-image: url(../img/dh_3.jpg);
+    background-size: 50%;
+    background-color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.celdaI {
+    background: linear-gradient(90deg, rgb(209, 240, 38) 20%, rgb(138, 151, 65) 100%);
+}
+
+.celdaJ {
+    background: linear-gradient(0deg, rgb(204, 165, 148) 0%, rgba(187, 65, 13, 0.699) 5%, rgb(156, 65, 26) 20%, rgb(184, 71, 23) 70%, rgb(199, 157, 139) 100%);
+}
+
+.celdaK {
+    background: linear-gradient(0deg, rgb(119, 209, 107) 0%, rgba(255, 255, 255, 255) 100%);
+}
+
+.celdaL {
+    background: linear-gradient(0deg, rgb(40, 194, 19) 0%, rgba(255, 255, 255, 0) 100%);
+}

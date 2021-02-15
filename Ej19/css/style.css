@@ -1,0 +1,7 @@
+table, tr, td, th {
+    border: black solid 1px;
+}
+
+.negrita>td {
+    font-weight: bold;
+}

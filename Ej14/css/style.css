@@ -1,0 +1,31 @@
+body {
+    width: 100%;
+    text-align: center;
+    background-image: url(../img/pinguino.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+table {
+    margin: 0px auto;
+    margin-top: 20%;
+    font-size: 20px;
+    width: 40%;
+}
+
+table, th, td {
+    border: 1px solid rgba(233, 245, 67, 0.952);
+}
+
+.celda1 {
+    font-weight: bold;
+}
+
+tr:nth-child(odd) {
+    background-color: white;
+}
+
+tr:nth-child(even) {
+    background-color: rgba(233, 245, 67, 0.952);
+}

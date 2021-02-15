@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    font-weight: bold;
+}
+
+table {
+    font-size: 20px;
+    width: 100%;
+}
+
+table, th, td {
+    border: 1px solid gray;
+  }
+
+.celda1{
+    background-color: rgb(176, 228, 176);
+}
+
+.celda2{
+    background-color: rgba(90, 245, 245, 0.644);
+    text-align: left;
+}
+
+.celda6{
+    background-color: rgba(238, 20, 227, 0.623);
+    text-align: right;
+}
+
+.celdaRojo{
+    color:red;
+}
